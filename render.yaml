@@ -1,0 +1,9 @@
+services:
+  - type: worker
+    name: whatsapp-gemini-bot
+    env: node
+    buildCommand: npm install && npx puppeteer browsers install chrome
+    startCommand: node index.js
+    envVars:
+      - key: AQ.Ab8RN6JNPEDW6HRXTV-y9qq3fv8U1DrCCmeFiW8D90IyYuTi1w
+        sync: false
