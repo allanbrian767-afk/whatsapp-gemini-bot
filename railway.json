@@ -1,0 +1,24 @@
+{
+  "$schema": "https://railway.app/railway.schema.json",
+  "build": {
+    "builder": "NIXPACKS",
+    "nixpacksPkgs": [
+      "google-chrome-stable",
+      "nss",
+      "nspr",
+      "atk",
+      "cups",
+      "dbus",
+      "libdrm",
+      "libatasmart",
+      "libxkbcommon",
+      "pango",
+      "mesa",
+      "glib"
+    ]
+  },
+  "deploy": {
+    "startCommand": "node index.js",
+    "restartPolicyType": "ON_FAILURE"
+  }
+}
