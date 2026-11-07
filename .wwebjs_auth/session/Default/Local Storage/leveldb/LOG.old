@@ -1,3 +1,6 @@
-2026/11/07-02:36:18.581 463c Reusing MANIFEST C:\Users\USER\whatsapp-gemini-bot\.wwebjs_auth\session\Default\Local Storage\leveldb/MANIFEST-000001
-2026/11/07-02:36:18.592 463c Recovering log #4
-2026/11/07-02:36:18.705 463c Reusing old log C:\Users\USER\whatsapp-gemini-bot\.wwebjs_auth\session\Default\Local Storage\leveldb/000004.log 
+2026/11/07-02:37:34.871 1944 Reusing MANIFEST C:\Users\USER\whatsapp-gemini-bot\.wwebjs_auth\session\Default\Local Storage\leveldb/MANIFEST-000001
+2026/11/07-02:37:34.888 1944 Recovering log #4
+2026/11/07-02:37:34.898 1944 Reusing old log C:\Users\USER\whatsapp-gemini-bot\.wwebjs_auth\session\Default\Local Storage\leveldb/000004.log 
+2026/11/07-02:38:04.825 26c4 Level-0 table #8: started
+2026/11/07-02:38:04.837 26c4 Level-0 table #8: 15276 bytes OK
+2026/11/07-02:38:04.842 26c4 Delete type=0 #4
